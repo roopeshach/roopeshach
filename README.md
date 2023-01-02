@@ -34,7 +34,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=roopesh&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://scontent.fpkr1-1.fna.fbcdn.net/v/t39.30808-6/298470215_419074296868697_3796808052462590773_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE1jP_7mTqrH4V5Sw5ftmY94uUBQYbQdDLi5QFBhtB0Mu2CMHJZbrYL1Av-z3PPdLcfSBAnxGoqZWvadFt10ZCZ&_nc_ohc=0a594iNoh0EAX-2_sLw&_nc_ht=scontent.fpkr1-1.fna&oh=00_AfBUF0bsCZU-Qo-iTdOCkc1TPMNiX5yH2gzdqD_x01Jr0w&oe=637288EC" height="250"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=roopesh&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285">
 |--|--|
 
 <br>
@@ -44,7 +44,4 @@ These are some of the major technologies that I use or have worked on in the pas
 <a href="[https://www.linkedin.com/in/tusharmit/](https://www.linkedin.com/in/roopesh-acharya-b5a987228/)"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/roopeshach.rupesh/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40"></a>
 |--|--|
 
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
 
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
