@@ -4,64 +4,33 @@ As a **Software Engineer**, I specialize in building **scalable web applications
 
 ---
 
-## 🛠️ **Technical Proficiencies**
+## 🛠️ **Skills**
 
-### **Programming Languages:**
+**Languages** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-2776AB?style=flat&logo=dart&logoColor=white)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-- **Python**
-    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-    Experienced in building scalable backend systems, AI/ML applications, and automation scripts.
-  
-- **JavaScript**
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-    Proficient in creating dynamic web applications, including full-stack development with frameworks like React and Next.js.
-  
-- **PHP**
-    ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-    Expert in backend development, particularly for web applications.
-  
-- **HTML5**
-    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-    Expert in building responsive and accessible front-end applications, ensuring that user interfaces are intuitive and functional across all devices.
-  
-- **CSS3**
-    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-    Skilled in styling modern, responsive web designs.
+**AI/ML**   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)   ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)   ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+**Frameworks & Libraries**  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 
-### **AI/ML:**
+**Automation & Web Scraping**
+![Scrapy](https://img.shields.io/badge/-Scrapy-1F2536?style=flat&logo=scrapy&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  ![BeautifulSoup4](https://img.shields.io/badge/-BeautifulSoup4-9C4B2C?style=flat&logo=beautifulsoup&logoColor=white) ![Requests](https://img.shields.io/badge/-Requests-FF4A3B?style=flat&logo=requests&logoColor=white)
 
-- **TensorFlow**  
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-  I’ve used **TensorFlow** for deep learning tasks, like image recognition, where I trained CNNs to classify images and optimized models for scalable performance on GPUs.
+**Databases**  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-- **scikit-learn**  
-  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-  **scikit-learn** has been my choice for traditional ML tasks like regression, classification, and clustering. I used it in projects like **MBA Admission Prediction** and **Fish Classification** to train and evaluate models.
+**Tools & Platforms**  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- **Keras**  
-  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  
-  I’ve used **Keras** for building deep learning models, like in the **Handwriting Prediction** project, where I quickly built and trained a neural network to recognize handwritten digits.
+**Project Management**  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)  ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)  
 
-### **Frameworks and Libraries:**
-- **Django** ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white): Extensive experience with this Python web framework, enabling the creation of powerful and secure web applications.
-- **Flask** ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white): Utilized for building microservices and APIs, ideal for lightweight applications and rapid prototyping.
-- **React** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black): Proficient in building interactive user interfaces with React, leveraging the power of component-based design.
-- **Next.js** ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white): Expertise in server-side rendering and static site generation, enhancing SEO and performance for React applications.
-- **Flutter** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white): Skilled in mobile development using Flutter, delivering high-performance, cross-platform applications.
+**DevOps**  ![CI/CD](https://img.shields.io/badge/-CI/CD-1D9EE4?style=flat&logo=github-actions&logoColor=white)   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)   ![Ansible](https://img.shields.io/badge/-Ansible-001C23?style=flat&logo=ansible&logoColor=white)  
 
+I have expertise across a wide range of programming languages, frameworks, AI/ML tools, databases, development platforms, project management tools, and DevOps technologies, enabling me to build scalable, efficient, and secure applications.
 
-### **Databases:**
-- **MySQL** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white): Expertise in relational database design, optimization, and management.
-- **PostgreSQL** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white): Experienced in advanced database features such as JSONB and full-text search for scalable web applications.
-- **SQLite** ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white): Utilized in lightweight, file-based databases for embedded applications and small-scale projects.
+## 🛠️ **Technical Proficiency**
 
-### **Tools and Platforms:**
-- **Git** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white): Version control for managing codebases, collaboration, and project management.
-- **GitHub** ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white): Repository management and collaboration platform.
-- **Docker** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white): Proficient in containerization and creating isolated environments for software applications.
-- **Linux** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black): Comfortable working in Linux-based environments, utilizing its power for development, deployment, and system management.
-- **Jupyter** ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white): Expert in using Jupyter notebooks for data analysis, prototyping, and building machine learning models.
+I specialize in **Python** for backend development and **AI/ML** with tools like **TensorFlow**, **scikit-learn**, and **Keras**. I build scalable web applications using **Django**, **Flask**, **React**, and **Next.js**. For mobile apps, I use **Flutter**. I am skilled in **MySQL**, **PostgreSQL**, and **SQLite** for database management.
+
+In DevOps, I utilize **Docker**, **CI/CD pipelines**, and **Kubernetes** for containerization and orchestration. I use **Git** for version control, and **Linux** for server management. I manage projects using **Jira**, **Trello** for streamlined workflows.
 
 ---
 
@@ -105,7 +74,7 @@ This Python script generates SVG visualizations of nested circles. It showcases 
 
 - **[LinkedIn](https://www.linkedin.com/in/roopesh-acharya-b5a987228/)**: Connect with me for professional networking and insights into my work.
 - **[Facebook](https://www.facebook.com/r00peshach/)**: For Social Media connection join with me here.
-- **[Personal Website](https://roopeshacharya.com)**: Learn more about my journey, projects, and contributions to the tech community.
+- **[Personal Website](https://roopeshacharya.com.np)**: Learn more about my journey, projects, and contributions to the tech community.
 
 ---
 
