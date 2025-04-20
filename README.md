@@ -18,11 +18,11 @@ As a **Software Engineer**, I specialize in building **scalable web applications
 
 **Databases**  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-**Tools & Platforms**  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Tools & Platforms**  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
 
 **Project Management**  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)  ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)  
 
-**DevOps**  ![CI/CD](https://img.shields.io/badge/-CI/CD-1D9EE4?style=flat&logo=github-actions&logoColor=white)   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)   ![Ansible](https://img.shields.io/badge/-Ansible-001C23?style=flat&logo=ansible&logoColor=white)  
+**DevOps**  ![CI/CD](https://img.shields.io/badge/-CI/CD-1D9EE4?style=flat&logo=github-actions&logoColor=white)   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 
 I have expertise across a wide range of programming languages, frameworks, AI/ML tools, databases, development platforms, project management tools, and DevOps technologies, enabling me to build scalable, efficient, and secure applications.
 
